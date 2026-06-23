@@ -1,0 +1,6 @@
+{
+  "name": "Jyoti Dental Clinic",
+  "description": "Premium healthcare website for Jyoti Dental Clinic – Dr. Rohit Mamude in Nashik, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
